@@ -1,4 +1,4 @@
-# RecyclerView-1
+# RecyclerView 2
 ## Identitas
 * Nama : Detry Ajeng Pratiwi
 * No : 10
